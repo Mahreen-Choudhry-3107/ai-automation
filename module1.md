@@ -1,3 +1,15 @@
+<!-- 
+GTM => Go-to-Market Strategy => step by step plan that a business uses to launch a product or service etc and reach its target customers
+
+Goal: Achieving competitive advantage.....
+
+ -->
+
+
+
+
+
+
 # What are Automations?
 Automation is the process of using technologies to perform tasks without human intervention, making repetitive ot time-consuming activities faster and more efficient.
 
